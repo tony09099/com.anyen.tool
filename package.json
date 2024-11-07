@@ -1,0 +1,13 @@
+﻿{
+  "name": "com.anyen.tool",
+  "version": "1.0.0",
+  "displayName": "星河 工具包",
+  "description": "提供載入場景或退出遊戲的功能",
+  "unity": "6000.0",
+
+  "author": {
+    "name": "星河",
+    "email": "tony09099@gmail.com",
+    "url": ""
+  }
+}
